@@ -1,2 +1,2 @@
-# OSWA-prep
-Preparation for the OSWA certification
+# OSEP-prep
+Preparation for the OSEP certification
